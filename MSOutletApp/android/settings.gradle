@@ -1,0 +1,3 @@
+rootProject.name = 'MSOutletApp'
+
+include ':app'
