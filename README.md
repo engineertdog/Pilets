@@ -1,5 +1,11 @@
 # Pilets
-A react native built app that communicates with a NodeJS server through PHP to command outlets.
+A react native built app that communicates with a NodeJS server through PHP to command outlets that are controlled by relays and a Raspberry PI 3.
+
+# TO-DO - API Server
+Change server setup to remove the middleman PHP API Server and turn the NodeJS server from a simple MySQL and GPIO manipulation server into a JSON RESTful API that handles changing the GPIO outpuets for the outlets.
+
+# TO-DO - App
+Add comments and go through code to see if it can be reduced further and made more efficient.
 
 # MSOutletApp
 This folder contains the necessary React Native files to build the app on your phone.
